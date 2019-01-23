@@ -1,0 +1,9 @@
+1: According to the researchers of University of Chicago,as much as $5.5 billion dollars worth of unexpired rescription drugs in unopened packs, bottles, and vials are incinerated or tossed in the garbage every year.
+2: Medicine reuse is still a largely unexplored concept in India and there are very few organised ways to deal with excess medicines.
+3: Proposing 'MediLink', which would use Blockchain to provide a smart,secure and transparent solution to track  and reuse medicines.
+4: Usage of Blockchain would allow tracking of medicines in supply to identify counterfeit medicines.
+5: Under this system, the users would undergo a KYC procedure to verify their individual identities.
+6: The users would then be able to advertise or request the required medicines on a web portal.
+7: The transactions would be recorded on a public Blockchain in order to avoid abuse or resale of medicines within the system.
+8: Using this system would provide expensive medication free of charge to economically challenged people.
+9: This system will also allow the analysis of medication trends in order to assist with the detection of outbreaks of epidemics.
